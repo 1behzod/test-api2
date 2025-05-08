@@ -166,4 +166,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Code quality page]: https://www.jhipster.tech/documentation-archive/v8.10.0/code-quality/
 [Setting up Continuous Integration]: https://www.jhipster.tech/documentation-archive/v8.10.0/setting-up-ci/
 [Node.js]: https://nodejs.org/
-[NPM]: https://www.npmjs.com/
+[NPM]: https://www.npmjs.com/ '# test-api2'
